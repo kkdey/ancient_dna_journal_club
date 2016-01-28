@@ -17,7 +17,7 @@ In the first chapter of this Journal Club, we shall consider three very instrins
 \item PCR amplification and sequencing of aDNA 
 \end{itemize}
 
-We dicussed this [paper](../paper/Paabo_Wk1.pdf)
+We dicussed this [paper](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0034131)
 
 ## DNA damage
 

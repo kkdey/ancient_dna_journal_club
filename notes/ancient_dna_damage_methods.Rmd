@@ -1,0 +1,20 @@
+---
+title: 'DNA damage: Methods and Materials'
+author: "Kushal K Dey"
+date: "February 10, 2016"
+output: pdf_document
+---
+
+DNA in living cells continuously suffer chemical insults but they are countered by the repair mechanism maintaining the integrity of the genome. These cellular repair mechanisms stop functioning after death. As a result, the genome is exposed to numerous enviornmental factors that threatens its stability. Loss of DNA occurs due to intracellular nucleases which degrade them, as well as micro-organisms that spread in deacying tissues. These factors may cause loss of all retrievable DNA. However under favorable environmental conditions, when the tissues are frozen or dessicated, these processes get inhibited before the complete destruction of all endogenous DNA. When DNa is extrcated and analyzed from ancient samples, these destructuve factors manifest in three different ways. 
+
+\begin{itemize}
+\item A reduction in DNA fragment size. 
+\item blocking of replication of DNA molecules.
+\item incorrect nucleotides to be incorporated when DNA is replicated. 
+\end{itemize}
+
+The DNA usually extracted from almost all ancient samples (age from $4$ to $13000$ years) ranges in fragment size from $40$ to $500$ base pairs. It has been suggested that fragmentation is due to hydrolytic depurination and subsequent $\beta$ elimination resulting in single strand breaks. 
+
+Some DNA modifications obstruct the movement of DNA polymerases along a template strand, preventing their amplification and sequencing. Such blocking lesions occur in the form of nucleotide modifications and crosslinks, which can form either between DNA strands, between different DNA fragments, or
+between DNA and other molecules.
+
